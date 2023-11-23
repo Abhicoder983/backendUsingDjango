@@ -1,14 +1,9 @@
 # backendUsingDjango
 This is my django backend work for the react project 
- BEFORE RUNNING THIS RUN 
-                                     
-                                     
-    pip install django 
-                                     
-       
+ BEFORE RUNNING THIS
 
-now comes in to the backend folder 
-
+    pip install django
+now comes in to the backend folder
 
     cd backend
 then in, languageProject 
