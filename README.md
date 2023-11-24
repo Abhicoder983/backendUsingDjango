@@ -17,6 +17,9 @@ after run this project you see this type of output copy this url  which is start
 
 run on any browser
  like chrome and firefox
+
+ ![Screenshot (21)](https://github.com/Abhicoder983/backendUsingDjango/assets/112263396/9780c173-7828-4715-936f-7c1119248983)
+
  
      
 
