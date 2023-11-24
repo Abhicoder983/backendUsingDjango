@@ -19,8 +19,13 @@ from django.urls import path, include
 from Languageapp import urls
 from django.views.generic import TemplateView
 import Languageapp
+
+
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('students/', include(Languageapp.urls)),
+    path('',include(Languageapp.urls)),
+    path('contact/', include(Languageapp.urls))
+    
     
 ]
